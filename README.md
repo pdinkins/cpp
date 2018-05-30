@@ -1,12 +1,16 @@
 # C++
-
 Files and examples for COP 2000.001 summer class
 
-## housingcosts.cpp 
+
+
+### housingcosts.cpp 
 Adds up multiple variables
 
-## project2.cpp
+### project2.cpp
 Takes user input and adds up variables
 
-## maximum.cpp 
+### maximum.cpp 
 Explores if, else, and else if statements
+
+### evenodd.cpp
+Even/Odd number checker
